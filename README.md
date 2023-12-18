@@ -26,6 +26,8 @@ O sistema de cadastro em PHP e MySQL é uma aplicação web desenvolvida para ge
 
 - Utilização de um banco de dados MySQL para armazenar e recuperar as informações dos usuários.
 
+- Verificação de campos obrigatórios, formatos válidos de e-mail, entre outras verificações.
+
 - Implementação de validações para garantir que os dados inseridos pelos usuários sejam consistentes e seguros.
 
 - Aplicação de boas práticas de segurança, como o uso de prepared statements para evitar ataques de injeção de SQL.
