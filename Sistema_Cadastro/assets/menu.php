@@ -13,7 +13,6 @@
     <button class="navbar-toggler text text-warning" type="button" data-toggle="collapse" data-target="#conteudoNavbarSuportado" aria-controls="conteudoNavbarSuportado" aria-expanded="false" aria-label="Alterna navegação">
         <span class="navbar-toggler-icon"></span>
     </button>
-
     <div class="collapse navbar-collapse ml-3" id="conteudoNavbarSuportado">
         <ul class="navbar-nav ml-auto">
             <li class="nav-item dropdown mr-2">
@@ -41,10 +40,8 @@
         </div>
         <div class="col-md-6 bg-white justify-content-between p-3">
             <div class="form-label-group">
-
                 <input type="text" name="pesquisa_cadastro" id="pesquisa_cadastro" class="form-control" 
                 placeholder="PESQUISAR CLIENTES POR NOME" required autofocus>
-
             </div>
         </div>
         <div class="col-md-2 bg-white justify-content-between p-3 d-flex">
